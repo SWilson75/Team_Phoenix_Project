@@ -56,7 +56,10 @@ https://www.kaggle.com/code/mchirico/traffic-fatalities-getting-started/data
       Future certified data scientist
 
 ### Sarah Wilson
-      After the Covid Lock Down was issued the company I was working for as application support on a mainframe Cobal program laid off over 100 people due to loss of contract.  Having no formal certificates or degree in computer programming I was faced with the choice to go back to school to add to the knowledge I have in the computer technology field or back to start over in a new career again.   I have always been interested in the data side of analytics; I knew it would be a good fit for me.  This is a small part of WHY Data Science is for me.
+      After the Covid Lock Down was issued the company I was working for as application support on a mainframe cobal program became laid off.
+      Along with over 100 people due to loss of contract.  Having no formal certificates or degree in computer programming I was faced with a choice'
+      to go back to school adding to the knowledge I had in the computer technology field or back to start over in a new career again.
+      I have always been interested in the data side of analytics; I knew it would be a good fit for me.  This is a small part of WHY Data Science is for me.
 
       Newly Engaged 
 
